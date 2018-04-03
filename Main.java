@@ -7,6 +7,7 @@ public class Main {
 
         Gui gui = new Gui();
         gui.start();
+        System.out.println("some text");
 
     }
 }
