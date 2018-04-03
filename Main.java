@@ -10,6 +10,7 @@ public class Main {
         System.out.println("some text");
         System.out.println("more text");
         System.out.println("test");
+        System.out.println("master");
 
     }
 }
