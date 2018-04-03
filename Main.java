@@ -9,6 +9,7 @@ public class Main {
         gui.start();
         System.out.println("some text");
         System.out.println("more text");
+        System.out.println("master");
 
     }
 }
