@@ -7,10 +7,7 @@ public class Main {
 
         Gui gui = new Gui();
         gui.start();
-        System.out.println("some text");
-        System.out.println("more text");
-        System.out.println("test");
-        System.out.println("master");
+
 
     }
 }
